@@ -1,4 +1,4 @@
-package frazeusz.patternmatcher;
+package frazeusz.patternMatcher;
 
 import java.util.Map;
 

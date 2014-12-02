@@ -7,7 +7,7 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-import frazeusz.patternmatcher.IPatternMatcherResults;
+import frazeusz.patternMatcher.IPatternMatcherResults;
 import frazeusz.plotter.IPlotter;
 
 public class WriterGUI extends JPanel
