@@ -3,12 +3,18 @@ package pl.frazeusz.writer;
 import java.io.File;
 import java.util.Map;
 
+import org.json.JSONObject;
+
 public class JSONParser {
 	
 	public JSONParser() {}
 
 	public void toJSON(File file, Map<Phrase, Integer> resultsToSave) {
-		
+		JSONObject calosc = new JSONObject();
+		for (Map.Entry<Phrase, Integer> r : resultsToSave.entrySet()){
+			Phrase p = r.getKey();
+			Integer i = r.getValue();
+		}
 	}
 
 
