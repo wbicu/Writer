@@ -1,8 +1,8 @@
-package pl.frazeusz.patternmatcher;
+package frazeusz.patternmatcher;
 
 import java.util.Map;
 
-import pl.frazeusz.writer.Phrase;
+import frazeusz.writer.Phrase;
 
 public class IPatternMatcherResults {
 

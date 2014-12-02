@@ -1,4 +1,4 @@
-package pl.frazeusz.writer;
+package frazeusz.writer;
 
 import java.io.File;
 import java.util.Map;

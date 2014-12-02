@@ -1,4 +1,4 @@
-package pl.frazeusz.writer;
+package frazeusz.writer;
 
 import java.io.*;
 import java.util.Map;
@@ -7,8 +7,8 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-import pl.frazeusz.patternmatcher.IPatternMatcherResults;
-import pl.frazeusz.plotter.IPlotter;
+import frazeusz.patternmatcher.IPatternMatcherResults;
+import frazeusz.plotter.IPlotter;
 
 public class WriterGUI extends JPanel
                              implements ActionListener {

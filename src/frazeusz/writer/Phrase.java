@@ -1,4 +1,4 @@
-package pl.frazeusz.writer;
+package frazeusz.writer;
 
 public class Phrase {
 	String phrase;
